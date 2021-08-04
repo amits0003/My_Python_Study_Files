@@ -1,0 +1,15 @@
+Python Day 1.
+
+
+Reserved Words
+
+Sentences or Lines : 
+
+sequential codes : when the code is not indented. it just goes down one line after another line. 
+
+to check more abbout get used in python
+list comprehension
+
+build webpages using python
+
+CGI - Python
